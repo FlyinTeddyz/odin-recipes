@@ -7,7 +7,6 @@ h1 {
     font-weight: 500;
     font-size: 48px;
     text-align: center;
-    text-rendering: optimizeLegibility;
 }
 
 .hmbtn {
@@ -17,6 +16,7 @@ h1 {
     text-decoration: none;
     color: white;
     padding: 8px 16px;
+    margin: 68em;
     
 }
 
@@ -28,7 +28,11 @@ h1 {
 
 h2 {
     font-size: 30px;
-    padding-left: 100px;
+    text-align: center;
+}
+
+.paraone {
+    text-align: center;
 }
 
 #border {
@@ -58,5 +62,5 @@ h2 {
 }
 
 #border .bdr_txt2 {
-    width: 80px;
+    width: 90px;
 }
