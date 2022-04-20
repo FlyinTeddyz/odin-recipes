@@ -49,11 +49,7 @@ h2 {
     border-radius: 5px;
     padding-left: 19px;
     padding-right: 19px;
-    margin: 20px;  
-}
-
-#border .bdr_txt,
-#border .bdr_txt2 {
+    margin: 20px; 
     font-size: 38px;
 }
 
